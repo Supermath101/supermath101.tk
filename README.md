@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8e7fe5b0-241d-4346-82ab-3a048540583a/deploy-status)](https://app.netlify.com/sites/supermath101/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
